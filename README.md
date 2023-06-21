@@ -1,0 +1,1 @@
+# rcs-fe-gc-arrays-objetos-06-2023
